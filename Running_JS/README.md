@@ -59,5 +59,5 @@ The attributes that discussed above is also applicable to this.
 
 ### 3. Console
 Every JS engine has a way to execute script like a shell script. This helps to debug  and understand the inner working or outputs.
-The [V8 engine](https://v8.dev/) even has a shell script to do this called [d8](https://v8.dev/docs/d8).
+The [V8 engine](https://v8.dev/) even has a shell script to do this called [d8](https://v8.dev/docs/d8).<br />
 ![Chrome DevTools](./.console.png).
